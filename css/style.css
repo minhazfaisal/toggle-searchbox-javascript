@@ -1,0 +1,11 @@
+/*toggle content*/
+
+i{
+	font-size: 20px;
+	cursor: pointer;
+	border: 1px solid black;
+	padding: 5px;
+}
+#s_form{
+	display: none;
+}
